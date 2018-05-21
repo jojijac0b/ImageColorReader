@@ -9,7 +9,7 @@ public class ColorFinderMain {
         FileWriter fileWriter = null;
 
         try {
-          fileWriter = new FileWriter("solutions.txt");
+          fileWriter = new FileWriter("solutions.csv");
 
           URL path = ColorFinderMain.class.getResource("urls.txt");
           File f = new File(path.getFile());
