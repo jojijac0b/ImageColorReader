@@ -52,5 +52,5 @@ Approach:
 
 How to use program:
   - Compile and run on the command line
-  - Run ColorFinderTester.java file to test that ColorFinder.java is accurate and goes through some edge cases
+  - Run ColorFinderTester.java file to test that ColorFinder.java is accurate and passes some edge cases
   - Run ColorFinderMain.java to run program with given urls.text(there are alot of urls so it will take a while)
