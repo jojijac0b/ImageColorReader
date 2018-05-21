@@ -47,7 +47,7 @@ Approach:
   Organization:
     - We will read the urls.txt file line by line in ColorFinderMain class
     - We will pass each url to our ColorFinder class to do the work of finding the 3 most prevalent colors and returning them in a String[]
-    - We will write the answer to our solutions.txt file in the ColorFinderMain class
+    - We will write the answer to our solutions.csv file in the ColorFinderMain class
 
 
 How to use program:
